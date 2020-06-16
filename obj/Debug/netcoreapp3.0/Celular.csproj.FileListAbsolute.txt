@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Celular\obj\Debug\netcoreapp3.0\Celular.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Celular\obj\Debug\netcoreapp3.0\Celular.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Celular\obj\Debug\netcoreapp3.0\Celular.AssemblyInfo.cs
+C:\Users\senai\Desktop\Celular\bin\Debug\netcoreapp3.0\Celular.exe
+C:\Users\senai\Desktop\Celular\bin\Debug\netcoreapp3.0\Celular.deps.json
+C:\Users\senai\Desktop\Celular\bin\Debug\netcoreapp3.0\Celular.runtimeconfig.json
+C:\Users\senai\Desktop\Celular\bin\Debug\netcoreapp3.0\Celular.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Celular\bin\Debug\netcoreapp3.0\Celular.dll
+C:\Users\senai\Desktop\Celular\bin\Debug\netcoreapp3.0\Celular.pdb
+C:\Users\senai\Desktop\Celular\obj\Debug\netcoreapp3.0\Celular.dll
+C:\Users\senai\Desktop\Celular\obj\Debug\netcoreapp3.0\Celular.pdb
